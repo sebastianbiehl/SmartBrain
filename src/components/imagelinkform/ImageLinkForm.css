@@ -1,0 +1,15 @@
+.form {
+    width: 700px;
+    background:
+    radial-gradient(circle farthest-side at 0% 50%,#acb6e5 23.5%,rgba(17, 69, 240, 0) 0)21px 30px,
+    radial-gradient(circle farthest-side at 0% 50%,#74ebd5 24%,rgba(17, 69, 240, 0) 0)19px 30px,
+    linear-gradient(#acb6e5 14%,rgba(17, 69, 240, 0) 0, rgba(17, 69, 240, 0) 85%,#acb6e5 0)0 0,
+    linear-gradient(150deg,#acb6e5 24%,#74ebd5 0,#74ebd5 26%,rgba(17, 69, 240, 0) 0,rgba(17, 69, 240, 0) 74%,#74ebd5 0,#74ebd5 76%,#acb6e5 0)0 0,
+    linear-gradient(30deg,#acb6e5 24%,#74ebd5 0,#74ebd5 26%,rgba(17, 69, 240, 0) 0,rgba(17, 69, 240, 0) 74%,#74ebd5 0,#74ebd5 76%,#acb6e5 0)0 0,
+    linear-gradient(90deg,#74ebd5 2%,#acb6e5 0,#acb6e5 98%,#74ebd5 0%)0 0 #acb6e5;
+    background-size:40px 60px;
+}
+
+.bg-turkise{
+    background-color:#74ebd5;
+}
