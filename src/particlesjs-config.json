@@ -74,6 +74,10 @@
         "enable": false,
         "mode": "repulse"
       },
+      "onresize": {
+        "density_auto": true,
+        "density_area": 1200
+      },
       "onclick": {
         "enable": false,
         "mode": "push"
